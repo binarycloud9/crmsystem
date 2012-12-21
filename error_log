@@ -1,0 +1,9 @@
+[29-Nov-2012 04:50:00] PHP Fatal error:  Class 'Model_Tasks' not found in /home/u720720072/public_html/modules/orm/classes/kohana/orm.php on line 37
+[29-Nov-2012 04:54:32] PHP Fatal error:  Class 'Model_Tasks' not found in /home/u720720072/public_html/modules/orm/classes/kohana/orm.php on line 37
+[29-Nov-2012 08:21:06] PHP Fatal error:  Using $this when not in object context in /home/u720720072/public_html/application/views/task/show.php on line 2
+[29-Nov-2012 08:24:10] PHP Fatal error:  Using $this when not in object context in /home/u720720072/public_html/application/views/task/show.php on line 2
+[29-Nov-2012 09:30:39] PHP Fatal error:  Cannot use object of type Model_Project as array in /home/u720720072/public_html/application/views/project/show.php on line 3
+[29-Nov-2012 10:10:55] PHP Fatal error:  Call to undefined method Request::params() in /home/u720720072/public_html/application/classes/controller/task.php on line 14
+[29-Nov-2012 10:15:44] PHP Parse error:  syntax error, unexpected ':' in /home/u720720072/public_html/application/classes/controller/task.php on line 13
+[29-Nov-2012 10:15:49] PHP Parse error:  syntax error, unexpected ':' in /home/u720720072/public_html/application/classes/controller/task.php on line 13
+[29-Nov-2012 10:16:59] PHP Parse error:  syntax error, unexpected ':' in /home/u720720072/public_html/application/classes/controller/task.php on line 13
